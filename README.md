@@ -15,7 +15,6 @@ Python3 package needed:
 
 ```
 Pytorch-1.2.1
-numpy
 ```
 
 
@@ -32,9 +31,9 @@ All the map settings of WSN are in the 'Data' folder. The map can be determined 
 
  an example:
 
-'''
+```
 python main.py --map_type=2 --map_index=0 --dyn_map=True
-'''
+```
 
 
 ## Citation
