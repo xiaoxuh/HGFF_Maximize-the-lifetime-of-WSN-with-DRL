@@ -2,6 +2,8 @@
 
 Code for Paper *HGFF: A DRL Approach for Lifetime Maximization in Wireless Sensor Networks*
 
+![image](https://github.com/xiaoxuh/HGFF_Maximize-the-lifetime-of-WSN-with-DRL/blob/main/framework.jpg)
+
 ### HGFF
 
 We propose a method called HGFF to maximize the lifetime of wireless sensor networks based on deep reinforcement learning, using heterogeneous graph neural networks and multi-head attention mechanisms to learn the state representation of wireless sensor networks (WSN) and automatically generate the sink's movement path. By intelligently planning the sink's movement path, the energy consumption of nodes in the wireless sensor network is balanced, and the life of the wireless sensor network is effectively extended. The method we proposed overcomes the shortcomings of existing heuristic methods and can generate high-quality sink movement paths in a short time, greatly improving the life of WSN.
