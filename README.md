@@ -20,9 +20,9 @@ Pytorch-1.2.1
 
 ### Getting Started
 
-'''
+```
 python main.py
-'''
+```
 We have designed two kinds of environments to simulate WSNs: stationary and dynamic. The difference is whether the deployment of sensor nodes changes or not during the lifetime. You can specify them by setting '--dyn_map=True/False'.
 
 All the map settings of WSN are in the 'Data' folder. The map can be determined through the following two parameters:
