@@ -130,6 +130,8 @@ def run(config):
             mean_rewards.append(avg_reward)
             print("n_episode :{}, score : {:.1f}, n_buffer : {}, eps : {:.1f}, time: {:.1f}".format(
                 N_EPI, avg_reward, memory.size(), epsilon * 100, (log_time-start)/num))
+            sum_rewards = 0.0
+            start = log_time
      
 
 
