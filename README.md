@@ -41,13 +41,11 @@ python main.py --map_type=2 --map_index=0 --dyn_map=True
 ## Citation
 
 ```
-@misc{han2024hgffdeepreinforcementlearning,
-      title={HGFF: A Deep Reinforcement Learning Framework for Lifetime Maximization in Wireless Sensor Networks}, 
-      author={Xiaoxu Han and Xin Mu and Jinghui Zhong},
-      year={2024},
-      eprint={2407.07747},
-      archivePrefix={arXiv},
-      primaryClass={cs.NI},
-      url={https://arxiv.org/abs/2407.07747}, 
+@article{han2024hgff,
+  title={HGFF: A Deep Reinforcement Learning Framework for Lifetime Maximization in Wireless Sensor Networks},
+  author={Han, Xiaoxu and Mu, Xin and Zhong, Jinghui},
+  journal={IEEE Transactions on Artificial Intelligence},
+  year={2024},
+  publisher={IEEE}
 }
 ```
