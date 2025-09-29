@@ -1,4 +1,4 @@
-# HGFF_Maximize-the-lifetime-of-WSN-with-DRL
+# Maximize the lifetime of WSN with Deep Reinforcement Learning
 
 Code for Paper *HGFF: A DRL Approach for Lifetime Maximization in Wireless Sensor Networks*
 
